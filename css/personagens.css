@@ -113,44 +113,44 @@ a {
 }
 
 .horizontal section:nth-of-type(1) { 
-    background-image: url("file:../img/luffy.png");
+    background-image: url('img/luffy.png');
 
 }
 
 .horizontal section:nth-of-type(3) { 
-    background-image: url("file:../img/zoro.png"); 
+    background-image: url('img/zoro.png'); 
 }
 
 .horizontal section:nth-of-type(5) { 
-    background-image: url("file:../img/sanji.png"); 
+    background-image: url('img/sanji.png'); 
 }
 
 .horizontal section:nth-of-type(7) { 
-    background-image: url("file:../img/jinbei.png"); 
+    background-image: url('img/jinbei.png'); 
 }
 
 .horizontal section:nth-of-type(9) { 
-    background-image: url("file:../img/robin.png"); 
+    background-image: url('img/robin.png'); 
 }
 
 .horizontal section:nth-of-type(11) { 
-    background-image: url("file:../img/franky.png"); 
+    background-image: url('img/franky.png'); 
 }
 
 .horizontal section:nth-of-type(13) { 
-    background-image: url("file:../img/nami.png"); 
+    background-image: url('img/nami.png'); 
 }
 
 .horizontal section:nth-of-type(15) { 
-    background-image: url("file:../img/usopp.png"); 
+    background-image: url('img/usopp.png'); 
 }
 
 .horizontal section:nth-of-type(17) { 
-    background-image: url("file:../img/brook.png"); 
+    background-image: url('img/brook.png'); 
 }
 
 .horizontal section:nth-of-type(19) { 
-    background-image: url("file:../img/chopper.png"); 
+    background-image: url('img/chopper.png'); 
 }
 
 .horizontal dl {
@@ -206,31 +206,31 @@ a {
 }
 
 .horizontal-2 section:nth-of-type(1) { 
-    background-image: url("file:../img/roger.png"); 
+    background-image: url('img/roger.png'); 
 }
 
 .horizontal-2 section:nth-of-type(3) { 
-    background-image: url("file:../img/silver.png"); 
+    background-image: url('img/silver.png'); 
 }
 
 .horizontal-2 section:nth-of-type(5) { 
-    background-image: url("file:../img/scopper.png"); 
+    background-image: url('img/scopper.png'); 
 }
 
 .horizontal-2 section:nth-of-type(7) { 
-    background-image: url("file:../img/buggy.png"); 
+    background-image: url('img/buggy.png'); 
 }
 
 .horizontal-2 section:nth-of-type(9) { 
-    background-image: url("file:../img/shanksyng.png"); 
+    background-image: url('img/shanksyng.png'); 
 }
 
 .horizontal-2 section:nth-of-type(11) { 
-    background-image: url("file:../img/oden.png"); 
+    background-image: url('img/oden.png'); 
 }
 
 .horizontal-2 section:nth-of-type(13) { 
-    background-image: url("file:../img/crocus.png"); 
+    background-image: url('img/crocus.png'); 
 }
 
 .horizontal-2 dl {
@@ -286,44 +286,44 @@ a {
 }
 
 .horizontal-3 section:nth-of-type(1) { 
-    background-image: url("file:../img/shanks.png");
+    background-image: url('img/shanks.png');
 
 }
 
 .horizontal-3 section:nth-of-type(3) { 
-    background-image: url("file:../img/benn.png"); 
+    background-image: url('img/benn.png'); 
 }
 
 .horizontal-3 section:nth-of-type(5) { 
-    background-image: url("file:../img/lucky.png"); 
+    background-image: url('img/lucky.png'); 
 }
 
 .horizontal-3 section:nth-of-type(7) { 
-    background-image: url("file:../img/yasopp.png"); 
+    background-image: url('img/yasopp.png'); 
 }
 
 .horizontal-3 section:nth-of-type(9) { 
-    background-image: url("file:../img/lime.png"); 
+    background-image: url('img/lime.png'); 
 }
 
 .horizontal-3 section:nth-of-type(11) { 
-    background-image: url("file:../img/bonk.png"); 
+    background-image: url('img/bonk.png'); 
 }
 
 .horizontal-3 section:nth-of-type(13) { 
-    background-image: url("file:../img/monster.png"); 
+    background-image: url('img/monster.png'); 
 }
 
 .horizontal-3 section:nth-of-type(15) { 
-    background-image: url("file:../img/snake.png"); 
+    background-image: url('img/snake.png'); 
 }
 
 .horizontal-3 section:nth-of-type(17) { 
-    background-image: url("file:../img/hongo.png"); 
+    background-image: url('img/hongo.png'); 
 }
 
 .horizontal-3 section:nth-of-type(19) { 
-    background-image: url("file:../img/gab.png"); 
+    background-image: url('img/gab.png'); 
 }
 
 .horizontal-3 dl {
@@ -370,7 +370,7 @@ a {
     margin-right: 10vw;
     justify-content: center;
     align-content: center;
-    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url("file:../img/strawhat.png");
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url('img/strawhat.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -392,7 +392,7 @@ a {
     margin-right: 5vw;
     justify-content: center;
     align-content: center;
-    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url("file:../img/rogerpi.png");
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url('img/rogerpi.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -414,7 +414,7 @@ a {
     margin-right: 10vw;
     justify-content: center;
     align-content: center;
-    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url("file:../img/ruivopi.png");
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url('img/ruivopi.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
